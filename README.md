@@ -1,3 +1,3 @@
 # Unity2Dgame
-2D project 
-Platformer
+2D Platformer made for school project
+
